@@ -5,5 +5,5 @@
 - **Business intelligence**: Power BI
 
 ### Education 🎓
-- Master's degree @ National University of Science and Technology (2025 - now)  
+- Master's degree @ National University of Science and Technology (2024 - now)  
 - Bachelors's degree @ National University of Science and Technology (2020 - 2024)  
